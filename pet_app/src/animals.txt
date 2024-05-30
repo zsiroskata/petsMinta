@@ -1,0 +1,10 @@
+macska;3;fekete;macska.jfif
+nyúl;5;fehér;nyul.jfif
+papagáj;2;zöld;papagaj.jfif
+hal;1;arany;hal.jfif
+teknős;10;barna;teknos.jfif
+kígyó;4;szürke;kigyo.jfif
+hörcsög;3;barna;horcsog.jfif
+tengerimalac;6;foltos;tengerimalac.jfif
+lepke;1;színes;lepke.jfif
+róka;7;vörös;roka.jfif

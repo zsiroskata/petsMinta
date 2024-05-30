@@ -1,0 +1,125 @@
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.exe
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.deps.json
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.runtimeconfig.json
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.dll
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.pdb
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app_MarkupCompile.cache
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app_MarkupCompile.lref
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.g.resources
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.AssemblyInfoInputs.cache
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.AssemblyInfo.cs
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.csproj.CoreCompileInputs.cache
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.dll
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\obj\Debug\net8.0-windows\refint\pet_app.dll
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.pdb
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.genruntimeconfig.cache
+C:\Users\c20árpásk\source\repos\pet_app\pet_app\obj\Debug\net8.0-windows\ref\pet_app.dll
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.exe
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.deps.json
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.runtimeconfig.json
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.dll
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.pdb
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\App.g.cs
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app_MarkupCompile.cache
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app_MarkupCompile.lref
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\MainWindow.baml
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.g.resources
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.AssemblyInfoInputs.cache
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.AssemblyInfo.cs
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.csproj.CoreCompileInputs.cache
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.sourcelink.json
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.dll
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\refint\pet_app.dll
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.pdb
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.genruntimeconfig.cache
+D:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\ref\pet_app.dll
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.exe
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.deps.json
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.runtimeconfig.json
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.dll
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.pdb
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\App.g.cs
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app_MarkupCompile.cache
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app_MarkupCompile.lref
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\MainWindow.baml
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.g.resources
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.AssemblyInfoInputs.cache
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.AssemblyInfo.cs
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.csproj.CoreCompileInputs.cache
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.sourcelink.json
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.dll
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\refint\pet_app.dll
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.pdb
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.genruntimeconfig.cache
+E:\DOLGOZATOK\2024.05.15 PetApp 12.C\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\ref\pet_app.dll
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.exe
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.deps.json
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.runtimeconfig.json
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.dll
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.pdb
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app_MarkupCompile.cache
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app_MarkupCompile.lref
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.g.resources
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.AssemblyInfoInputs.cache
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.AssemblyInfo.cs
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.csproj.CoreCompileInputs.cache
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.sourcelink.json
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.dll
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\refint\pet_app.dll
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.pdb
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.genruntimeconfig.cache
+C:\Users\EVA\Downloads\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\ref\pet_app.dll
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.exe
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.deps.json
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.runtimeconfig.json
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.dll
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.pdb
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\App.g.cs
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app_MarkupCompile.cache
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app_MarkupCompile.lref
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\MainWindow.baml
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.g.resources
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.AssemblyInfoInputs.cache
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.AssemblyInfo.cs
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.csproj.CoreCompileInputs.cache
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.sourcelink.json
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.dll
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\refint\pet_app.dll
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.pdb
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.genruntimeconfig.cache
+D:\2. WPF\___\PetApp megoldások\!!ez egy stíluss sablonos adatkötées példaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\ref\pet_app.dll
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.exe
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.deps.json
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.runtimeconfig.json
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.dll
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\bin\Debug\net8.0-windows\pet_app.pdb
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\MainWindow.g.cs
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\App.g.cs
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app_MarkupCompile.cache
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app_MarkupCompile.lref
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\MainWindow.baml
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.g.resources
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.GeneratedMSBuildEditorConfig.editorconfig
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.AssemblyInfoInputs.cache
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.AssemblyInfo.cs
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.csproj.CoreCompileInputs.cache
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.sourcelink.json
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.dll
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\refint\pet_app.dll
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.pdb
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\pet_app.genruntimeconfig.cache
+M:\Barnáné\12. évf\PROGRAMOZÁS\WPF FELADATOK\PetApp mintaprogram\pet_app_arpas\pet_app\pet_app\obj\Debug\net8.0-windows\ref\pet_app.dll
